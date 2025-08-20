@@ -3,7 +3,7 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 	"os"
-	"github.com/bilal-os/T-HEX-Runner/utils"
+	"github.com/bilal-os/t-hex-Runner/utils"
 )
 
 // rootCmd represents the base command when called without any subcommands
