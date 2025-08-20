@@ -1,4 +1,4 @@
-module github.com/bilal-os/t-hex-Runner
+module github.com/bilal-os/t-hex-runner
 
 go 1.24.6
 

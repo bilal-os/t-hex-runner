@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 	"os/exec"
-	"github.com/bilal-os/t-hex-Runner/utils"
+	"github.com/bilal-os/t-hex-runner/utils"
 )
 
 // runCmd represents the run command
